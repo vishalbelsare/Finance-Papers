@@ -47,9 +47,11 @@ This is an archive of my research papers in finance.
 
 ## Share *Buyback* Valuation
 
-- [Full Treatise](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2012share-buyback.pdf)
+- [Newest Paper (2026)](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2026share-buyback-valuation-simulation.pdf)
 
-- [Shorter Introduction](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2013share-buyback-intro.pdf)
+- [Original Treatise (2012)](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2012share-buyback.pdf)
+
+- [Shorter Introduction (2013)](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2013share-buyback-intro.pdf)
 
 - [Spreadsheet](https://github.com/Hvass-Labs/Finance-Papers/raw/master/share-buyback.xlsx)
 
